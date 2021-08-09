@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40ab6af1-b3fc-44f6-9134-0afdb0b248ee" name="Default Changelist" comment="" />
+    <list default="true" id="40ab6af1-b3fc-44f6-9134-0afdb0b248ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/nothing" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sarkar_rooftop_garden/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sarkar_rooftop_garden/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +78,7 @@
       <workItem from="1628492928437" duration="183000" />
       <workItem from="1628519686123" duration="12140000" />
       <workItem from="1628535629829" duration="577000" />
-      <workItem from="1628536324509" duration="361000" />
+      <workItem from="1628536324509" duration="689000" />
     </task>
     <servers />
   </component>
