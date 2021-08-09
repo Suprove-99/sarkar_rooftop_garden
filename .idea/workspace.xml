@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my_rooftop_garden" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -75,6 +75,7 @@
       <workItem from="1628492928437" duration="183000" />
       <workItem from="1628519686123" duration="12140000" />
       <workItem from="1628535629829" duration="577000" />
+      <workItem from="1628536324509" duration="361000" />
     </task>
     <servers />
   </component>
