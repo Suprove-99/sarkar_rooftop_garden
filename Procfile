@@ -1,0 +1,1 @@
+web: gunicorn sarkar_rooftop_garden.wsgi --log-file -
