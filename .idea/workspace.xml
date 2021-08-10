@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ab6af1-b3fc-44f6-9134-0afdb0b248ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/nothing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sarkar_rooftop_garden/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sarkar_rooftop_garden/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/flowers.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/flowers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/fruits.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/fruits.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/others.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/others.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/vegetables.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vegetables.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my_rooftop_garden" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -78,7 +83,8 @@
       <workItem from="1628492928437" duration="183000" />
       <workItem from="1628519686123" duration="12140000" />
       <workItem from="1628535629829" duration="577000" />
-      <workItem from="1628536324509" duration="689000" />
+      <workItem from="1628536324509" duration="982000" />
+      <workItem from="1628574282186" duration="4563000" />
     </task>
     <servers />
   </component>
@@ -86,10 +92,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1628536207849">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1628576227683">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1628536207849" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1628576227683" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1628533488301">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
