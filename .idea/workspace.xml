@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="40ab6af1-b3fc-44f6-9134-0afdb0b248ee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/garden/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/garden/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/flowers.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/flowers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/fruits.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/fruits.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/others.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/others.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vegetables.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vegetables.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,7 @@
       <workItem from="1628519686123" duration="12140000" />
       <workItem from="1628535629829" duration="577000" />
       <workItem from="1628536324509" duration="982000" />
-      <workItem from="1628574282186" duration="5724000" />
+      <workItem from="1628574282186" duration="11727000" />
     </task>
     <servers />
   </component>
@@ -99,10 +97,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1628533488301" />
-    <state x="346" y="59" key="search.everywhere.popup" timestamp="1628525446893">
+    <state x="390" y="73" width="585" height="592" key="find.popup" timestamp="1628593803710">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1628525446893" />
+    <state x="390" y="73" width="585" height="592" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1628593803710" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1628592091310">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1628592091310" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Title</title>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -27,23 +28,23 @@
     </ul>
 </nav>
 
+
 <div class="container ">
     <div class="jumbotron " style="background: #f1b0b7 ">
-
-        <div style="margin-left:30px ">
+        <div class="ml-5 mb-5">
             <h1><b>Sarkar's Rooftop Garden</b></h1>
             <h5> Do gardening, be happy!</h5>
         </div>
 
-        <!--------------------------------------------this shit works------------------------------------------->
-        <div class="row pb-4 pl-5 " style="column-gap: 20px; text-align: center ;padding-top: 50px ">
-            <a href="{% url 'flower' %}"><div class="column" style="background: #fd7e14; height: 200px; width: 250px;"> <h2 style="padding-top: 30%; color: black">Flowers</h2> </div></a>
-            <a href="{% url 'fruit' %}"> <div class="column" style="background: #b21f2d; height: 200px; width: 250px; alignment: bottom"><h2 style="padding-top: 30%; color: black"> Fruits</h2></div></a>
+        <!-- ----------------------------------------this shit works----------------------------------------- -->
+        <div class="row pb-4 pl-5 " style="column-gap: 2rem; text-align: center ;padding-top: 1rem ">
+            <a href="{% url 'flower' %}"><div class="column" style="background: #fd7e14; height: 13rem; width: 13rem;"> <h2 style="padding-top: 4rem; color: black">Flowers</h2> </div></a>
+            <a href="{% url 'fruit' %}"> <div class="column" style="background: #b21f2d; height: 13rem; width: 13rem; alignment: bottom"><h2 style="padding-top: 4rem; color: black"> Fruits</h2></div></a>
         </div>
 
-        <div class="row pb-4 pl-5" style="column-gap: 20px; text-align: center ">
-            <a href="{% url 'vegetable' %}"><div class="column" style="background:#1c7430 ; height: 200px; width: 250px"><h2 style="padding-top: 30%; color: black">Vegetables</h2></div></a>
-            <a href="{% url 'other' %}"><div class="column" style="background: #6f42c1; height: 200px; width: 250px "><h2 style="padding-top: 30%; color: black">Others</h2></div></a>
+        <div class="row pb-4 pl-5" style="column-gap: 2rem; text-align: center ">
+            <a href="{% url 'vegetable' %}"><div class="column" style="background:#1c7430 ; height: 13rem; width: 13rem"><h2 style="padding-top: 4rem; color: black">Vegetables</h2></div></a>
+            <a href="{% url 'other' %}"><div class="column" style="background: #6f42c1; height: 13rem; width: 13rem "><h2 style="padding-top: 4rem; color: black">Others</h2></div></a>
         </div>
 
     </div>
@@ -51,5 +52,6 @@
 </div>
 
 </div>
+
 </body>
 </html>
