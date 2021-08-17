@@ -26,3 +26,6 @@ class VegetablesPageView(ListView):
 class OthersPageView(ListView):
     model = Others
     template_name = 'others.html'
+
+class AboutPageView(TemplateView):
+    template_name = 'about.html'

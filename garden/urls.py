@@ -7,4 +7,5 @@ urlpatterns = [
     path('fruits/', FruitsPageView.as_view(), name='fruit'),
     path('vegetables/', VegetablesPageView.as_view(), name='vegetable'),
     path('others/', OthersPageView.as_view(), name='other'),
+    path('about/', AboutPageView.as_view(), name='about'),
 ]
